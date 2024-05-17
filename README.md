@@ -1,15 +1,14 @@
-### Seja bem-vindo! 💕
+### welcome!! 🙂
 
-Meu nome é Gabriela.
+My name is Bibi, im 17 y.o
 
-- Estou estudando pelo [Alura](https://www.alura.com.br).
-- Desenvolvedora na linguagem JavaScript.
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+- Studying by [Alura](https://www.alura.com.br).
+- JavaScript programmer.
 
-### Você pode entrar em contato comigo 📧
+### Contact me 📧
 
 gabrielasilvactt@gmail.com
 
 @dnzgb
 
-![_](https://media.tenor.com/nlAcoH84u9EAAAAM/le-sserafim-eunchae.gif)
+![_](https://media.tenor.com/wJyrFLbQ8KkAAAAM/beautiful-wave.gif)
